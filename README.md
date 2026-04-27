@@ -1,4 +1,6 @@
-# dns-sinkhole
-#### to do
-- remove duplicates
-- automate scraping and updating lists
+# DNS Sinkhole
+
+Curated domain blocklist for various online game websites.
+
+#### TO-DO
+- Automate scraping and updating lists
